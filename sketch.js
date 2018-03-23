@@ -105,6 +105,6 @@ function mousePressed() {
             mols[i].col = color((1-ratio)*random(200,255), (1-ratio)*random(200,255), (1-ratio)*random(200,255), random(20,50));
         }
     } else {
-        middletext = "This is a real problem."
+        middletext = "This is a serious problem."
     }
 }
